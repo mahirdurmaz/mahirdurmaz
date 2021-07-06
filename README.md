@@ -38,12 +38,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
-  <img align="left" alt="mahirdurmaz's github stats" src="https://github-readme-stats.vercel.app/api?username=mahirdurmaz&show_icons=true&hide_border=true"/>
-
-</details>
+<img align="left" alt="mahirdurmaz's github stats" src="https://github-readme-stats.vercel.app/api?username=mahirdurmaz&show_icons=true&hide_border=true&theme=radical"/>
 
 [youtube]: https://www.youtube.com/channel/UC8NAkmd4NxDxNQO41ZK84Fw
 [linkedin]: https://www.linkedin.com/in/mahir-durmaz-298588182/
