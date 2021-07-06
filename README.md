@@ -40,7 +40,7 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="mahirdurmaz's github stats" src="https://github-readme-stats.vercel.app/api?username=mahirdurmaz&show_icons=true&hide_border=true&theme=dark"/>
+<img align="left" alt="mahirdurmaz's github stats" src="https://github-readme-stats.vercel.app/api?username=mahirdurmaz&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 [youtube]: https://www.youtube.com/channel/UC8NAkmd4NxDxNQO41ZK84Fw
 [linkedin]: https://www.linkedin.com/in/mahir-durmaz-298588182/
