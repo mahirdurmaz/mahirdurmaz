@@ -32,6 +32,7 @@
 <br />
 <br />
 
+<img align="left" height="46" width="26" src="#" />
 <img align="left" height="46" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobepremierepro.svg" />
 <img align="left" height="46" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
 <img align="left" height="46" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
