@@ -1,11 +1,11 @@
 ### Hi there, I'm Mahir 👋
 
-## I'm a Student,
+## I'm a High School Student,
 
 - 🔭 I'm currently working on frontend development (HTML | CSS | JavaScript)
 - 🌱 I’m currently learning 3D Modelling, Motion Design, Graphic Design and Programming.
 - 🥅 2021 Goals: Improving myselft at programming and at other tools.
-- ⚡ Fun fact: I love to play video games and code.
+- ⚡ Fun fact: I love to play video games, do sports and code.
 
 ### Spotify Playing 🎧
 
