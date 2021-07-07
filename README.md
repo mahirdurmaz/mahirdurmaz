@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahir 👋
 
-## I'm a Student,
+## I'm a High School Student,
 
 - 🔭 I'm currently working on frontend development (HTML | CSS | JavaScript)
 - 🌱 I’m currently learning 3D Modelling, Motion Design, Graphic Design and Programming.
