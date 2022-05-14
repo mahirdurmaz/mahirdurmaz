@@ -5,11 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahirdurmaz" alt="mahirdurmaz" /></a> </p>
 
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and more**
+
+- 📫 How to reach me **durmazmahir99@gmail.com**
+
+- ⚡ Fun fact **I am 16 years old**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahirdurmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahirdurmaz" height="30" width="40" /></a>
 <a href="https://www.behance.net/mahirdurmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mahirdurmaz" height="30" width="40" /></a>
-<a href="https://discord.gg/Mahir#5332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahir#5332" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8nakmd4nxdxnqo41zk84fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8nakmd4nxdxnqo41zk84fw" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/jk5yzTJqHc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jk5yzTJqHc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
